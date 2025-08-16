@@ -1,15 +1,15 @@
 title: Christina Vu
 logo: "/images/logo.png?raw=true"
-description: >
-  <a href="https://www.linkedin.com/in/ngocbtvu/" target="_blank">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="https://github.com/ngocbtvu/" target="_blank">
-    <i class="fab fa-github"></i>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <i class="fas fa-envelope"></i>
-  </a>
+description:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/ngocbtvu/
+    icon: fab fa-linkedin
+  - name: GitHub
+    url: https://github.com/ngocbtvu/
+    icon: fab fa-github
+  - name: Email
+    url: mailto:your.email@example.com
+    icon: fas fa-envelope
 
 
 remote_theme: pages-themes/minimal@v0.2.0
