@@ -1,4 +1,4 @@
-## Portfolio
+## About me
 
 My name is Christina Vu. I am pursuing a master’s degree in Statistics at the University of South Carolina. 
 <br><br>
