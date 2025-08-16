@@ -27,7 +27,7 @@ My professional experience includes internships as a Data Analyst at Micron Tech
 
 ---
 
-### Scoring in the NHL
+### Exploratory Data Analysis: Scoring in the NHL
 
 [View Presentation](/pdf/cmu_project1.pdf)
 <img src="images/cmu_project1.png?raw=true"/>
