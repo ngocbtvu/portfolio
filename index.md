@@ -38,7 +38,8 @@ My professional experience includes internships as a Data Analyst at Micron Tech
 ### Research
 
 - [Inference for Error-Prone Count Data: Estimation under a Binomial Convolution Frameworke](https://arxiv.org/abs/2506.20596)
-  
+Yuqiu Yang, Christina Vu, Cornelis J. Potgieter, Xinlei Wang, Akihito Kamata (2025). *Inference for Error-Prone Count Data: Estimation under a Binomial Convolution Framework*. [arXiv:2506.20596](https://arxiv.org/abs/2506.20596)
+
 ---
 
 
