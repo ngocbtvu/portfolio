@@ -1,6 +1,7 @@
 title: Christina Vu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > 
+<div style="text-align: center; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/ngocbtvu/" target="_blank">
     <img src="images/linkedin.png?raw=true" alt="LinkedIn" width="32" height="32">
   </a>
@@ -10,8 +11,7 @@ description: >
   <a href="mailto:your.email@example.com">
     <img src="images/email.jpg?raw=true" alt="Email" width="32" height="32">
   </a>
-
-  
+</div> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
