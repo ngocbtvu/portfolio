@@ -2,16 +2,15 @@ title: Christina Vu
 logo: "/images/logo.png?raw=true"
 description: >
   <a href="https://www.linkedin.com/in/ngocbtvu/" target="_blank">
-    <i class="fab fa-linkedin"></i> LinkedIn
+    <i class="fab fa-linkedin"></i>
   </a>
-  <br>
   <a href="https://github.com/ngocbtvu/" target="_blank">
-    <i class="fab fa-github"></i> GitHub
+    <i class="fab fa-github"></i>
   </a>
-  <br>
-  <a href="mailto:ngoc.bt.vu@gmai.com">
-    <i class="fas fa-envelope"></i> Email
+  <a href="mailto:your.email@example.com">
+    <i class="fas fa-envelope"></i>
   </a>
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
