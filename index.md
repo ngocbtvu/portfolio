@@ -9,27 +9,27 @@ My professional experience includes internships as a Data Analyst at Micron Tech
 ## Projects
 
 ### Comparing Human and AI Scoring in Oral Reading Accuracy
-[Presentation](/pdf/tcu_thesis.pdf)
+[View Presentation](/pdf/tcu_thesis.pdf)
 <img src="images/tcu_thesis.png?raw=true"/>
 
 ---
 
 ### Estimation of Misclassification Rates for Human and AI Reading Accuracy Measurements
-[Poster](https://srs.tcu.edu/media/uploads/2024/MATH2024VU21053.pdf)
+[View Poster](https://srs.tcu.edu/media/uploads/2024/MATH2024VU21053.pdf)
 <img src="images/tcu_poster.png?raw=true"/>
 
 ---
 
 ### Evaluating Individual Defensive Contributions on the Penalty Kill
 
-[Report](https://www.stat.cmu.edu/cmsac/sure/2024/showcase/hockey_sabres/report.html)
+[View Report](https://www.stat.cmu.edu/cmsac/sure/2024/showcase/hockey_sabres/report.html)
 <img src="images/cmu_project2.png?raw=true"/>
 
 ---
 
 ### Scoring in the NHL
 
-[Presentation](/pdf/cmu_project1.pdf)
+[View Presentation](/pdf/cmu_project1.pdf)
 <img src="images/cmu_project1.png?raw=true"/>
 
 ---
