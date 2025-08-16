@@ -6,9 +6,15 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
   <a href="https://www.linkedin.com/in/ngocbtvu/" target="_blank">
     <img src="/images/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin:0 20px;">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ngocbtvu/" target="_blank">
     <img src="/images/github.png" alt="GitHub" width="40" height="40" style="margin:0 20px;">
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:ngoc.bt.vu@gmail.com">
     <img src="/images/email.png" alt="Email" width="40" height="40" style="margin:0 20px;">
   </a>
