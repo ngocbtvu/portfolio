@@ -1,17 +1,19 @@
 title: Christina Vu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > 
-<div style="text-align: center; margin-top: 10px;">
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ngocbtvu/" target="_blank">
-    <img src="images/linkedin.png?raw=true" alt="LinkedIn" width="32" height="32">
+    <img src="/images/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin:0 20px;">
   </a>
   <a href="https://github.com/ngocbtvu/" target="_blank">
-    <img src="images/github.png?raw=true" alt="GitHub" width="32" height="32">
+    <img src="/images/github.png" alt="GitHub" width="40" height="40" style="margin:0 20px;">
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="images/email.jpg?raw=true" alt="Email" width="32" height="32">
+  <a href="mailto:ngoc.bt.vu@gmail.com">
+    <img src="/images/email.png" alt="Email" width="40" height="40" style="margin:0 20px;">
   </a>
-</div> 
+</p>
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
