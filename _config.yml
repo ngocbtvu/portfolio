@@ -6,20 +6,34 @@ description: >
   <b>Contact Me</b>
   <br><br>
   
-  <a href="https://www.linkedin.com/in/ngocbtvu/">
-    <i class="fab fa-linkedin" style="margin-right:5px;"></i>
-    LinkedIn
-  </a> 
+description: >
+  <br>
+  <b>Contact Me</b>
   <br><br>
-  <a href="https://github.com/ngocbtvu/">
-    <i class="fab fa-github" style="margin-right:5px;"></i>
+
+  <a href="https://www.linkedin.com/in/ngocbtvu/" style="display:flex; align-items:center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#0A66C2" style="margin-right:5px;">
+      <path d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM0 8h5v16H0V8zm7.5 0h4.8v2.2h.1c.67-1.26 2.3-2.6 4.7-2.6 5 0 5.9 3.3 5.9 7.6V24h-5V15.7c0-2.0-.04-4.6-2.8-4.6-2.8 0-3.2 2.2-3.2 4.4V24h-5V8z"/>
+    </svg>
+    LinkedIn
+  </a>
+  <br><br>
+
+  <a href="https://github.com/ngocbtvu/" style="display:flex; align-items:center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#000" style="margin-right:5px;">
+      <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.1 3.3 9.4 7.9 10.9.6.1.8-.2.8-.5v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.2-1.3-1.5-1.3-1.5-1-.7.1-.7.1-.7 1.2.1 1.8 1.3 1.8 1.3 1 .1 1.5.7 1.5.7 1.2 2 3.1 1.5 3.8 1.1.1-.8.5-1.5.9-1.9-2.6-.3-5.3-1.3-5.3-5.8 0-1.3.5-2.3 1.3-3.1-.1-.3-.6-1.5.1-3.1 0 0 1.1-.3 3.5 1.3 1-.3 2-.4 3-.4 1 .0 2 .1 3 .4 2.4-1.6 3.5-1.3 3.5-1.3.7 1.6.2 2.8.1 3.1.8.8 1.3 1.8 1.3 3.1 0 4.5-2.7 5.5-5.3 5.8.5.5.9 1.3.9 2.5v3.7c0 .3.2.6.8.5C20.7 21.4 24 17.1 24 12c0-6.35-5.15-11.5-12-11.5z"/>
+    </svg>
     GitHub
   </a>
   <br><br>
-  <a href="mailto:ngoc.bt.vu@gmail.com">
-    <i class="fas fa-envelope" style="margin-right:5px;"></i>
+
+  <a href="mailto:ngoc.bt.vu@gmail.com" style="display:flex; align-items:center;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#D44638" style="margin-right:5px;">
+      <path d="M12 12.713l11.985-8.713H.015L12 12.713zm0 2.574L0 6.715v12.57h24V6.715l-12 8.572z"/>
+    </svg>
     Email
   </a>
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
