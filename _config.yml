@@ -6,12 +6,23 @@ description: >
   <b>Contact Me</b>
   <br><br>
   
-  <a href="https://www.linkedin.com/in/ngocbtvu/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/ngocbtvu/">
+    <i class="fab fa-linkedin" style="margin-right:5px;"></i>
+    LinkedIn
+  </a> 
   <br><br>
-  <a href="https://github.com/ngocbtvu/">GitHub</a>
+  <a href="https://github.com/ngocbtvu/">
+    <i class="fab fa-github" style="margin-right:5px;"></i>
+    GitHub
+  </a>
   <br><br>
-  <a href="mailto:ngoc.bt.vu@gmail.com">Email</a>
+  <a href="mailto:ngoc.bt.vu@gmail.com">
+    <i class="fas fa-envelope" style="margin-right:5px;"></i>
+    Email
+  </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
