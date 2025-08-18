@@ -1,11 +1,19 @@
-title: Christina Vu # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Christina Vu 
+logo: "/images/logo.png?raw=true" 
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > 
+  <br>
+  <b>Contact Me</b><br><br>
+  
+  <img src="/images/linkedin.png" alt="LinkedIn" width="20"/> 
   <a href="https://www.linkedin.com/in/ngocbtvu/">LinkedIn</a> 
   <br><br>
-  <a href="https://github.com/ngocbtvu/">GitHub</a>
+
+  <img src="/images/github.png" alt="GitHub" width="20"/> 
+  <a href="https://github.com/ngocbtvu/">GitHub</a> 
   <br><br>
+
+  <img src="/images/email.png" alt="Email" width="20"/> 
   <a href="mailto:ngoc.bt.vu@gmail.com">Email</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
