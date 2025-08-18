@@ -3,17 +3,16 @@ logo: "/images/logo.png?raw=true"
 
 description: > 
   <br>
-  <b>Contact Me</b><br><br>
+  <b>Contact Me</b>
+  <br><br>
   
-  <img src="/images/linkedin.png" alt="LinkedIn" width="20"/> 
-  <a href="https://www.linkedin.com/in/ngocbtvu/">LinkedIn</a> 
+  <img src="/images/linkedin.png" alt="LinkedIn" style="width:16px;height:16px;"> 
+  <a href="https://www.linkedin.com/in/ngocbtvu/">LinkedIn</a>
   <br><br>
-
-  <img src="/images/github.png" alt="GitHub" width="20"/> 
-  <a href="https://github.com/ngocbtvu/">GitHub</a> 
+  <img src="/images/github.png" alt="GitHub" style="width:16px;height:16px;"> 
+  <a href="https://github.com/ngocbtvu/">GitHub</a>
   <br><br>
-
-  <img src="/images/email.png" alt="Email" width="20"/> 
+  <img src="/images/email.png" alt="Email" style="width:16px;height:16px;"> 
   <a href="mailto:ngoc.bt.vu@gmail.com">Email</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
