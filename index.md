@@ -6,15 +6,16 @@ My professional experience includes internships as a Data Analyst at Micron Tech
 
 <p align="left">
   <a href="https://github.com/ngocbtvu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   <a href="https://www.linkedin.com/in/ngocbtvu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   <a href="mailto:ngoc.bt.vu@email.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
