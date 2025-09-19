@@ -4,6 +4,12 @@ My name is Christina Vu. I am pursuing a master’s degree in Statistics at the 
 <br><br>
 My professional experience includes internships as a Data Analyst at Micron Technology and Reinsurance Group of America, where I analyzed large datasets to find insights that support business decisions. As a researcher, I applied statistical methods to understand patterns and solve real world challenges.
 
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngocbtvu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngocbtvu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngoc.bt.vu@email.com)
+
 ---
 
 ## Projects
