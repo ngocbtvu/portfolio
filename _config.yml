@@ -1,13 +1,8 @@
-title: Christina Vu 
-logo: "/images/logo.png?raw=true" 
+title: "Christina Vu"
+logo: "/images/logo.png?raw=true"
 
-description: > 
-  <br>
-  <b>Contact Me</b>
-  <br><br>
-  
+description: "Christina Vu – Statistics student and data enthusiast."
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
+  - jekyll-remote-theme
